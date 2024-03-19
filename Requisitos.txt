@@ -1,0 +1,9 @@
+Criterios para el proyecto del tema 3
+70 el programa es gráfico y permite mandar mensajes de un usuario a otro
+05+ El programa permite enviar emoticonos 
+10+ El programa esta instalado en dos máquinas y se pueden comunicar
+05+ El programa permite personalizar la foto del usuario
+05+ El programa permite personalizar cambiar el fondo de programa cuando se ejecuta
+05+ El programa esta hecho sin hacer uso del JForm es decir el programa no fue generado el código automaticamente
+Nota:
+Para que el programa pueda ser valido tiene que entregarse el código explicado método por método, impreso y ser explicado al docente.
